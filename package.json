@@ -1,0 +1,14 @@
+{
+  "name": "qa.test-cafe.javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/qajonatasmartins/qa.test-cafe.javascript.git",
+  "author": "Jonatas <jonatas1503@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "testcafe chrome ./tests/test.js"
+  },
+  "devDependencies": {
+    "testcafe": "^2.6.0"
+  }
+}
