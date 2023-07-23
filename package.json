@@ -9,6 +9,6 @@
     "test": "testcafe chrome ./tests/test.js"
   },
   "devDependencies": {
-    "testcafe": "^2.6.0"
+    "testcafe": "^2.6.2"
   }
 }
